@@ -1,2 +1,2 @@
 # event_loop
-Simple event loop class
+simple event loop class with inspiration from https://habr.com/en/articles/665730/
