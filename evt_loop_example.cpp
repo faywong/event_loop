@@ -1,7 +1,3 @@
-/*
- * replica of axel: https://linux.die.net/man/1/axel with event_loop.h
- */
-
 #include <functional>
 #include <numeric>
 #include <algorithm>
